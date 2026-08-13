@@ -1,6 +1,6 @@
 # Thaumcraft Aspect Annotations
 
-A Thaumcraft 6 addon that adds the icon of the contained aspect to any Vis Crystal/Jar/Phial (or equivalent).
+A client-side Thaumcraft 6 addon that adds the icon of the contained aspect to any Vis Crystal/Jar/Phial (or equivalent). It supports any item from other Thaumcraft addons that have aspects, as long as they are registered properly.
 
 ## Configuration
 
