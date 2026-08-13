@@ -1,0 +1,8 @@
+thaumcraftaspectannotations.config.title=神秘时代要素注释配置
+thaumcraftaspectannotations.config.category.overlay=叠加层
+thaumcraftaspectannotations.config.scale=缩放比例
+thaumcraftaspectannotations.config.scale.tooltip=图标缩放比例，1.0表示占满整个物品槽
+thaumcraftaspectannotations.config.position=位置
+thaumcraftaspectannotations.config.position.tooltip=叠加层图标在物品槽内的位置
+thaumcraftaspectannotations.config.alpha=透明度
+thaumcraftaspectannotations.config.alpha.tooltip=叠加层图标的透明度
