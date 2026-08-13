@@ -1,0 +1,8 @@
+thaumcraftaspectannotations.config.title=Thaumcraft Aspect Annotations Configuration
+thaumcraftaspectannotations.config.category.overlay=Overlay
+thaumcraftaspectannotations.config.scale=Scale
+thaumcraftaspectannotations.config.scale.tooltip=Scale of the icon, with 1.0 being the whole item slot
+thaumcraftaspectannotations.config.position=Position
+thaumcraftaspectannotations.config.position.tooltip=Position of the overlay icon within the item slot
+thaumcraftaspectannotations.config.alpha=Transparency
+thaumcraftaspectannotations.config.alpha.tooltip=Transparency of the overlay icon
