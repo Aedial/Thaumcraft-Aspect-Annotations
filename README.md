@@ -16,3 +16,4 @@ The overlay position determines the location of the aspect icon within the item 
 The overlay transparency determines the transparency of the aspect icon within the item slot. 1.0 is fully opaque, and 0.0 is fully transparent.
 
 ## Credits
+- Chinese translation: @ZHAY10086
